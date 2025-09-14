@@ -3,11 +3,11 @@
   <title>LeastBit&#39;s Blog</title>
   
   <subtitle>探索算法、数据与系统</subtitle>
-  <link href="https://leastbit.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.bytbit.top/atom.xml" rel="self"/>
   
-  <link href="https://leastbit.github.io/"/>
+  <link href="https://blog.bytbit.top/"/>
   <updated>2025-09-13T04:45:55.079Z</updated>
-  <id>https://leastbit.github.io/</id>
+  <id>https://blog.bytbit.top/</id>
   
   <author>
     <name>LeastBit</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo 部署在 GitHub Pages 上的博客绑定自定义域名</title>
-    <link href="https://leastbit.github.io/posts/409c1e81/"/>
-    <id>https://leastbit.github.io/posts/409c1e81/</id>
+    <link href="https://blog.bytbit.top/posts/409c1e81/"/>
+    <id>https://blog.bytbit.top/posts/409c1e81/</id>
     <published>2025-09-13T04:39:03.000Z</published>
     <updated>2025-09-13T04:45:55.079Z</updated>
     
@@ -28,19 +28,19 @@
     
     
     
-    <category term="技术" scheme="https://leastbit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bytbit.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="hexo" scheme="https://leastbit.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.bytbit.top/tags/hexo/"/>
     
-    <category term="教程" scheme="https://leastbit.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.bytbit.top/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 博客终极优化与进阶指南</title>
-    <link href="https://leastbit.github.io/posts/d3eb1878/"/>
-    <id>https://leastbit.github.io/posts/d3eb1878/</id>
+    <link href="https://blog.bytbit.top/posts/d3eb1878/"/>
+    <id>https://blog.bytbit.top/posts/d3eb1878/</id>
     <published>2025-09-12T10:22:34.000Z</published>
     <updated>2025-09-13T02:27:49.887Z</updated>
     
@@ -49,19 +49,19 @@
     
     
     
-    <category term="技术" scheme="https://leastbit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bytbit.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="hexo" scheme="https://leastbit.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.bytbit.top/tags/hexo/"/>
     
-    <category term="教程" scheme="https://leastbit.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.bytbit.top/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 博客写作与维护完整指南</title>
-    <link href="https://leastbit.github.io/posts/788f639a/"/>
-    <id>https://leastbit.github.io/posts/788f639a/</id>
+    <link href="https://blog.bytbit.top/posts/788f639a/"/>
+    <id>https://blog.bytbit.top/posts/788f639a/</id>
     <published>2025-09-12T04:00:00.000Z</published>
     <updated>2025-09-12T10:32:22.867Z</updated>
     
@@ -70,12 +70,12 @@
     
     
     
-    <category term="技术" scheme="https://leastbit.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bytbit.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="hexo" scheme="https://leastbit.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.bytbit.top/tags/hexo/"/>
     
-    <category term="教程" scheme="https://leastbit.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.bytbit.top/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   

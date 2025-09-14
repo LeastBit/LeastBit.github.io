@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://leastbit.github.io/posts/409c1e81/</loc>
+    <loc>https://blog.bytbit.top/posts/409c1e81/</loc>
     
     <lastmod>2025-09-13</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://leastbit.github.io/posts/d3eb1878/</loc>
+    <loc>https://blog.bytbit.top/posts/d3eb1878/</loc>
     
     <lastmod>2025-09-13</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://leastbit.github.io/about/</loc>
+    <loc>https://blog.bytbit.top/about/</loc>
     
     <lastmod>2025-09-13</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://leastbit.github.io/posts/788f639a/</loc>
+    <loc>https://blog.bytbit.top/posts/788f639a/</loc>
     
     <lastmod>2025-09-12</lastmod>
     
@@ -39,23 +39,23 @@
   
 
   <url>
-    <loc>https://leastbit.github.io/</loc>
-    <lastmod>2025-09-13</lastmod>
+    <loc>https://blog.bytbit.top/</loc>
+    <lastmod>2025-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://leastbit.github.io/tags/hexo/</loc>
-    <lastmod>2025-09-13</lastmod>
+    <loc>https://blog.bytbit.top/tags/hexo/</loc>
+    <lastmod>2025-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://leastbit.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-09-13</lastmod>
+    <loc>https://blog.bytbit.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -63,8 +63,8 @@
 
   
   <url>
-    <loc>https://leastbit.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2025-09-13</lastmod>
+    <loc>https://blog.bytbit.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
