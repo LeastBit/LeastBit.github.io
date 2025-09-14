@@ -1,10 +1,12 @@
+@charset "UTF-8";
 #donate {
   position: relative;
   font-family: "Helvetica Neue", Ubuntu, "WenQuanYi Micro Hei", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Micro Hei Mono", "WenQuanYi Zen Hei", "WenQuanYi Zen Hei", "Apple LiGothic Medium", "SimHei", "ST Heiti", "WenQuanYi Zen Hei Sharp", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   line-height: 1.8em;
   text-shadow: 0 0 1px rgba(255, 255, 255, 0.1);
-  height: 15em;
+  /* 调整高度，去掉 DonateText 后可以适当减小 */
+  height: 12em;
 }
 
 #donate img {
@@ -43,22 +45,6 @@
 
 #donate .tr3 {
   transition: all 0.3s;
-}
-
-#donate #DonateText {
-  position: absolute;
-  font-size: 12px;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
-  color: #fff;
-  background: #ffd886 url(../img/like.svg) no-repeat center 10px;
-  background-size: 20px;
-  border-radius: 35px;
-  text-align: center;
-  left: calc(50% - 120px);
-  top: calc(50% - 60px);
-  transform: rotatez(-15deg);
 }
 
 #donate #donateBox {
@@ -139,7 +125,8 @@
 #donate #QRBox {
   top: 0;
   left: 0;
-  z-index: 1;
+  /* 提高弹层 z-index，使其覆盖提示文字 */
+  z-index: 12;
   background-color: rgba(255, 255, 255, 0.3);
   display: none;
   perspective: 400px;
@@ -162,17 +149,51 @@
   transform-style: preserve-3d;
   transform-origin: center center;
   overflow: hidden;
+  /* 确保主盒子在最上层并能接收事件 */
+  z-index: 13;
+  pointer-events: auto;
 }
 
+/* 提示行放在 donateBox 上方并居中于 donateBox 宽度（与 donateBox 同宽 299px）*/
+.donate-note {
+  position: absolute;
+  left: calc(50% - 150px); /* 与 #donateBox left 保持一致 */
+  top: calc(50% - 46px); /* 位于 donateBox (top: calc(50% - 15px)) 之上，按需微调 */
+  width: 299px;
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  line-height: 1.4;
+  opacity: 0.95;
+  /* 降低提示行 z-index，避免遮挡二维码 */
+  z-index: 2;
+}
+
+/* 移动端微调 */
+@media (max-width: 480px) {
+  .donate-note {
+    font-size: 12px;
+    top: calc(50% - 54px);
+    left: calc(50% - 140px);
+    width: 280px;
+  }
+}
 #donate #github {
+  display: block;
   width: 24px;
   height: 24px;
-  left: calc(50% + 135px);
-  top: calc(50% - 30px);
+  /* 相对于 donate 容器的偏移，微调以保证在 donateBox 右侧可见 */
+  left: calc(50% + 160px);
+  top: calc(50% - 14px);
   background: no-repeat center center url(../img/github.svg);
-  background-size: contain;
-  opacity: 0.3;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
   transform: rotatez(15deg);
+  z-index: 3;
+  pointer-events: auto;
 }
 
 #donate #ps {
