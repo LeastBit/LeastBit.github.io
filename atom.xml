@@ -6,7 +6,7 @@
   <link href="https://blog.bytbit.top/atom.xml" rel="self"/>
   
   <link href="https://blog.bytbit.top/"/>
-  <updated>2025-09-21T11:12:40.480Z</updated>
+  <updated>2025-09-13T04:45:55.079Z</updated>
   <id>https://blog.bytbit.top/</id>
   
   <author>
@@ -15,21 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>个人简历</title>
-    <link href="https://blog.bytbit.top/posts/e0349c0/"/>
-    <id>https://blog.bytbit.top/posts/e0349c0/</id>
-    <published>2025-09-21T10:53:06.000Z</published>
-    <updated>2025-09-21T11:12:40.480Z</updated>
-    
-    
-    <summary type="html">个人简历</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hexo 部署在 GitHub Pages 上的博客绑定自定义域名</title>
@@ -57,7 +42,7 @@
     <link href="https://blog.bytbit.top/posts/d3eb1878/"/>
     <id>https://blog.bytbit.top/posts/d3eb1878/</id>
     <published>2025-09-12T10:22:34.000Z</published>
-    <updated>2025-09-13T02:27:49.887Z</updated>
+    <updated>2025-09-21T11:27:36.087Z</updated>
     
     
     <summary type="html">非常详细的 Hexo 博客进阶指南，涵盖了写作效率、SEO、性能、维护和安全等方面。</summary>
