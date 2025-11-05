@@ -6,7 +6,7 @@
   <link href="https://blog.bytbit.top/atom.xml" rel="self"/>
   
   <link href="https://blog.bytbit.top/"/>
-  <updated>2025-09-13T04:45:55.079Z</updated>
+  <updated>2025-11-05T01:42:00.537Z</updated>
   <id>https://blog.bytbit.top/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人简历</title>
+    <link href="https://blog.bytbit.top/posts/e0349c0/"/>
+    <id>https://blog.bytbit.top/posts/e0349c0/</id>
+    <published>2025-09-21T10:53:06.000Z</published>
+    <updated>2025-11-05T01:42:00.537Z</updated>
+    
+    
+    <summary type="html">个人简历</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo 部署在 GitHub Pages 上的博客绑定自定义域名</title>

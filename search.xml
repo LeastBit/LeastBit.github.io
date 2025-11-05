@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>个人简历</title>
+      <link href="/posts/e0349c0/"/>
+      <url>/posts/e0349c0/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/Myresume.svg"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo 部署在 GitHub Pages 上的博客绑定自定义域名</title>
       <link href="/posts/409c1e81/"/>
       <url>/posts/409c1e81/</url>
